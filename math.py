@@ -6,4 +6,4 @@ def add(x,y):
   
 # Someone's gonna implement this
 def mult(x,y):
-  return None
+  return x*y
