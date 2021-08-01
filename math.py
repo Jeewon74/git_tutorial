@@ -7,3 +7,6 @@ def add(x,y):
 # Someone's gonna implement this
 def mult(x,y):
   return x*y
+
+# The best way is just heading directly to the police maybe. 
+# Stokers are not like what you think.
